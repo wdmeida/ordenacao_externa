@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1433532512 source:c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\estudos prova\prova 1\ordenacaoexterna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+
+1433634462 Externa.h"
+
+1433532352 source:c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\estudos prova\prova 1\ordenacaoexterna\ordenacaoexterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+
+1433532401 c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\estudos prova\prova 1\ordenacaoexterna\ordenacaoexterna.h
+
+1433533980 source:c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\trabalhos\tp ii\ordenacaoexterna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+
+1433536107 c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\trabalhos\tp ii\ordenacaoexterna\ordenacaoexterna.h
+
+1433534103 source:c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\trabalhos\tp ii\ordenacaoexterna\ordenacaoexterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+
+1433538147 source:c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\trabalhos\tp ii\ordenacaoexterna\buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433538147 
+
+1433538107 c:\users\wagner\google drive\ifet - sistemas para internet\3∫ perÌodo\estrutura de dados ii\trabalhos\tp ii\ordenacaoexterna\buffer.h
+	"OrdenacaoExterna.h"
+
+1433562006 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433561845 /media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/buffer.h
+	"OrdenacaoExterna.h"
+
+1433595675 /media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/OrdenacaoExterna.h
+
+1433559725 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+
+1433544148 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/FilaPrioridadeComLista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+
+1433632404 idadeComLista.h"
+
+1433544106 /media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/FilaPrioridadeComLista.h
+
+1433525804 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/FilaPrioridadeHeap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1433632420 idadeHeap.h"
+
+1433463540 /media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/FilaPrioridadeHeap.h
+
+1433595924 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Google Drive/IFET - Sistemas para Internet/3¬∫ Per√≠odo/Estrutura de Dados II/Trabalhos/TP II/OrdenacaoExterna/OrdenacaoExterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+
+1433598536 source:/home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433598536 /home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/buffer.h
+	"OrdenacaoExterna.h"
+
+1433598536 /home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/OrdenacaoExterna.h
+
+1433598536 source:/home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeComLista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+
+1433598536 /home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeComLista.h
+
+1433598536 source:/home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeHeap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1433598536 /home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeHeap.h
+
+1433598608 source:/home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+
+1433598536 source:/home/wagner/faculdade/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/OrdenacaoExterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+
+1433638164 source:c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433638164 c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\buffer.h
+	"registro.h"
+
+1433610091 h"
+
+1434284738 c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\ordenacaoexterna.h
+	"registro.h"
+	"buffer.h"
+	"FilaPrioridadeHeap.h"
+	"FilaPrioridadeComLista.h"
+
+1434204948 source:c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadecomlista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+	"registro.h"
+
+1434203924 c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadecomlista.h
+	"registro.h"
+
+1433638164 source:c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadeheap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1433638164 c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadeheap.h
+	"registro.h"
+
+1434203746 c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\registro.h
+
+1434282326 source:c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+	"FilaPrioridadeComLista.h"
+	"FilaPrioridadeHeap.h"
+
+1434284938 source:c:\users\wagner\documents\github\faculdade\estrutura de dados ii\tp ii\ordenacaoexterna\ordenacaoexterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+	"FilaPrioridadeComLista.h"
+	"FilaPrioridadeHeap.h"
+
+1433630176 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433630172 /media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/buffer.h
+	"registro.h"
+
+1433615577 /media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/registro.h
+
+1433632404 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeComLista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+
+1433610088 /media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeComLista.h
+	"registro.h"
+
+1433632420 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeHeap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1433610091 /media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/FilaPrioridadeHeap.h
+	"registro.h"
+
+1433634462 source:/media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/OrdenacaoExterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+
+1433632544 /media/wagner/408AB13F8AB131F0/Users/Wagner/Documents/GitHub/Faculdade/Estrutura de Dados II/TP II/OrdenacaoExterna/OrdenacaoExterna.h
+	"registro.h"
+	"buffer.h"
+	"FilaPrioridadeHeap.h"
+
+1433638163 source:/home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1433638163 /home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/buffer.h
+	"registro.h"
+
+1434203746 /home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/registro.h
+
+1433638163 source:/home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/FilaPrioridadeHeap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1433638163 /home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/FilaPrioridadeHeap.h
+	"registro.h"
+
+1434282326 source:/home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"OrdenacaoExterna.h"
+	"FilaPrioridadeComLista.h"
+	"FilaPrioridadeHeap.h"
+
+1434284737 /home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/OrdenacaoExterna.h
+	"registro.h"
+	"buffer.h"
+	"FilaPrioridadeHeap.h"
+	"FilaPrioridadeComLista.h"
+
+1434283351 source:/home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/OrdenacaoExterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+	"FilaPrioridadeComLista.h"
+	"FilaPrioridadeHeap.h"
+
+1434204948 source:/home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/FilaPrioridadeComLista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+	"registro.h"
+
+1434203923 /home/samukasaw/√Årea de Trabalho/TP II/OrdenacaoExterna/FilaPrioridadeComLista.h
+	"registro.h"
+
+1434375180 source:c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\buffer.c
+	<stdio.h>
+	<stdlib.h>
+	"buffer.h"
+
+1434375180 c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\buffer.h
+	"registro.h"
+
+1434398439 c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\registro.h
+
+1434375180 source:c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadecomlista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeComLista.h"
+	"registro.h"
+
+1434375180 c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadecomlista.h
+	"registro.h"
+
+1434375180 source:c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadeheap.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaPrioridadeHeap.h"
+
+1434375180 c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\filaprioridadeheap.h
+	"registro.h"
+
+1434403902 source:c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\ordenacaoexterna.c
+	<stdlib.h>
+	<stdio.h>
+	"OrdenacaoExterna.h"
+	"FilaPrioridadeComLista.h"
+	"FilaPrioridadeHeap.h"
+
+1434375180 c:\users\wagner\documents\github\faculdade\3∫ perÌodo\estrutura de dados ii\tp ii\ordenacaoexterna\ordenacaoexterna.h
+	"registro.h"
+	"buffer.h"
+	"FilaPrioridadeHeap.h"
+	"FilaPrioridadeComLista.h"
+
